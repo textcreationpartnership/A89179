@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Allen's vindication, or, Remarks upon a late scandalous pamphlet, entituled, A strange and new discovery, &amp;c.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89179</idno>
+            <idno type="STC">Wing M2257dA</idno>
+            <idno type="STC">ESTC R43707</idno>
+            <idno type="EEBO-CITATION">42475118</idno>
+            <idno type="OCLC">ocm 42475118</idno>
+            <idno type="VID">151252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151252)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2252:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Allen's vindication, or, Remarks upon a late scandalous pamphlet, entituled, A strange and new discovery, &amp;c.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, creased, and tightly bound, with slight loss of print.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newgate (Prison : London, England)</term>
+               <term>Prisons --  England --  Corrupt practices --  Early works to 1800.</term>
+               <term>Clergy --  England --  Corrupt practices --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151252:1" rendition="simple:additions"/>
+            <head>Mr. ALLEN's Vindication; OR; REMARKS upon a late Scandalous PAMPHLET, Entituled, <hi>A ſtrange and New Diſcovery,</hi> &amp;c.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>HAving lately peruſed a Scandalous Pamphlet, reflecting on Mr. <hi>Allen</hi> Ordinary of <hi>Newgate,</hi> I thought my ſelf oblig'd, being a Member of the Church of <hi>England,</hi> to enquire of ſeveral credible Perſons, the true Grounds and Reaſons for ſuch Reports. And being convinc'd that Malice and Envy were the Sources from whence ſuch impure Streams flow<g ref="char:EOLhyphen"/>ed, I thought it but Juſt and Chriſtian-like, to publiſh to the World the Matter as it ap<g ref="char:EOLhyphen"/>pear'd to me. But firſt I beg Mr. <hi>Allen</hi>'s Pardon, eſpecially ſince I am aſſur'd he is now writing his own Defence at large, ſo that I ought to leave it to his more ingenious Pen. Lampoons and Li<g ref="char:EOLhyphen"/>bels ſo much in Faſhion in this witty Age, are a ready way to murder any Perſon's Reputation; and indeed the Nature of true Virtue is commonly ſuch, that as the Flame ever bears its Smoak, and the Body its Shadow, ſo the brightneſs of Vertue never ſhines, but hath Diſdain or Envy waiting upon it.</p>
+            <p>But to come to the Point. I find the Chief ſtreſs of the Matter is grounded upon Mr. <hi>Allen</hi>'s being ſuppos'd to be the Perſon, who prevail'd with <hi>Jones</hi> to Swear againſt Capt. <hi>Newey</hi> at his Tryal. But according to the beſt Account I can receive from ſuch Circumſtances and Perſons as are leaſt liable to Miſtake, the Matter of Fact is truly Thus: Mr. <hi>Allen,</hi> according to Cuſtom, a little before the Seſſions begins, Viſits the Priſoners, and exhorts them to prepare for another World, and ſuch as are Evidences to ſpeak the Truth without Favour or Affection, telling them the Nature of an Oath and what it is. Mr. <hi>Charles Newey</hi> happened to be with one <hi>Jones</hi> alias <hi>Ambrell</hi> in the Maſter's ſide, when Mr. <hi>Allen</hi> came to Viſit, and he was reading a Paper to <hi>Newey,</hi> being the Contents of an Oath he was to ſwear againſt Mrs. <hi>Newey</hi> his Siſter-in-Law in <hi>Holbourn. Newey</hi> ſtaid and heard the Exhortation, and it was the firſt time Mr. <hi>Allen</hi> ever ſaw <hi>Jones.</hi> Pre<g ref="char:EOLhyphen"/>ſently after this, <hi>Jones</hi> writes a Letter to Juſtice <hi>Ellis,</hi> who committed him, importing that he had Buſineſs of Great Conſequence, and deſir'd to ſee him. Upon this Juſtice <hi>Ellis</hi> went to an adja<g ref="char:EOLhyphen"/>cent Houſe, and ſent for him, where he acquainted him, that he was very ſorry for what he had done, and was willing to confeſs the Truth, which was, that <hi>Newey</hi> was to give him ten Guineas to ſwear High Treaſon againſt his Siſter, <hi>viz.</hi> That he actually ſaw her Coin Half Crowns, and that he was to put them off; whereas indeed he never ſaw Mrs. <hi>Newey</hi> at all, till ſuch time he had been Suborn'd by the Captain. That he the ſaid <hi>Jones</hi> went before Sir <hi>Robert Jefferies,</hi> and ſwore the ſame by the Name of <hi>Ambrell,</hi> being perſwaded to it by the Captain, that they might have the better Pretence to carry on their Matters, by having two Witneſſes to one Fact. That he was alſo to ſwear himſelf to be the Husband of one <hi>Hannah Goodridge,</hi> to whom <hi>Newey</hi> had been mar<g ref="char:EOLhyphen"/>ried ſome Years before, and that he left her becauſe ſhe would have poyſon'd him. For the Truth of this, I muſt refer my ſelf to the Worſhipful Juſtice <hi>Ellis,</hi> who lives near St. <hi>Giles</hi>'s Church.</p>
+            <p>A ſmall time after <hi>Newey</hi> himſelf was committed Priſoner to <hi>Newgate,</hi> and being in the <hi>Preſs-Yard,</hi> inſinuates himſelf into the Company of Mr. <hi>Allen,</hi> and frequently importun'd him to go to his Siſter-in-Law, whom Mr. <hi>Allen</hi> had never ſeen, having himſelf at that time a Wife living. So that his Marriage which happen'd with Mrs. <hi>Newey</hi> very lately, could not be the Price and Purchaſe of Mr. <hi>Allen</hi>'s prevailing with <hi>Jones</hi> to be an Evidence againſt him, as he pretends in his Pamphlet. At length being prevailed upon by frequent Entreaties, Mr. <hi>Allen</hi> went to his Siſter in behalf of the ſaid <hi>Newey,</hi> being accompanied by Capt. <hi>Iſaac,</hi> who lives in <hi>Holbourn,</hi> and others of <hi>Newey</hi>'s Relations and Acquaintance. She return'd for Anſwer, that ſhe could do nothing without Advice of Counſel. After this, Mr. <hi>Newey</hi> writes a Letter to Mr. <hi>Allen,</hi> the Original whereof is now in Mr. <hi>Allen</hi>'s Hands, and contains what followeth.</p>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>Dear SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>NOT knowing any one readier to ſerve a Gentleman in Diſtreſs than your ſelf, and having but few Friends, occaſions my giving you this Trouble, to beg for God's ſake you'll aſſiſt me, by Speaking or Doing what you think proper to the Recorder or Lord Mayor, or with any other Perſon; which Favour, I will rather die than not Acknowledge with the Hazard of ten thouſand Lives, if I had them, who am, and always was by Inclination,</hi>
+                  </p>
+                  <closer>
+                     <salute>Dear Sir, </salute>
+                     <signed>Your moſt humble Servant to Command, whilſt CHAR. NEWEY.</signed>
+                     <dateline>From the <hi>Preſs-Yard.</hi>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>Superſcrib'd, To the Reverend Dr. <hi>Allen</hi> at his Lodgings. Preſent.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <pb facs="tcp:151252:2"/>
+            <p>Mr. <hi>Allen</hi> was his Friend at that time, and did what in him lay to ſerve him; and I cannot but Note how well he Requites him for it. That I paſs by in ſhort, and only obſerve in the Whole, that it appears Mr. <hi>Allen</hi> was a perfect Stranger to Mrs. <hi>Newey</hi> at the time this Diſcovery was made to Juſtice <hi>Ellis;</hi> and therefore, what he would infer from it, being built upon a wrong Founda<g ref="char:EOLhyphen"/>tion, do's utterly fall to the ground. As to what is ſaid concerning Mr. <hi>Allen</hi>'s being an Evidence againſt him, there is no more in it, than that the Court, upon <hi>Newey</hi>'s Tryal, ask'd <hi>Jones</hi> how he came to diſcover the Matter to Juſtice <hi>Ellis.</hi> He told them he was convinc'd of the Danger of taking a falſe Oath by the Exhortation of Mr. <hi>Allen,</hi> a little before the Seſſions began, which was the ſame time the Captain was preſent, as he own'd at his Tryal. The Court deſir'd Mr. <hi>Allen</hi> to declare upon Oath, whether he had made ſuch Exhortation, and he anſwer'd, Yes, which is all the Evidence Mr. <hi>Allen</hi> ever gave, notwithſtanding he makes ſo great a Noiſe about it in his Pam<g ref="char:EOLhyphen"/>phlets.</p>
+            <p>The 2d thing Mr. <hi>Allen</hi> is charged with, is taking Money from <hi>Joſeph Fiſher</hi> and <hi>John Davis</hi> lately Ezecuted, under pretence of ſaving their Lives. The Truth I find to be this. <hi>Mary Fiſher,</hi> Wife of <hi>Joſeph Fiſher,</hi> came to Mr. <hi>Allen</hi> about Eleven of the Clock, the Day before the Execution, and gave him a Petition, and put 2 Guineas in his Hand, entreating him with many Tears, to put her in a way to get a Reprieve for her Husband. To which Mr. <hi>Allen</hi>'s Anſwer was, that he could do her no Service therein, and was unacquainted with thoſe things, and ſo gave her the Money back again. On <hi>Saturday, May</hi> 25th between 6 and 7 in the Afternoon, <hi>Mary Fiſher</hi> came again to Mr. <hi>Allen,</hi> and told him, that as ſhe was going through <hi>Newgate,</hi> one of the Priſoners call'd to her, and told her, that Capt. <hi>Newey</hi> in the <hi>Preſs-Yard,</hi> would ſpeak with her. Accordingly ſhe went, and after ſome Diſcourſe, he deſir'd her to ſwear before a Magiſtrate, that Mr. <hi>Allen</hi> de<g ref="char:EOLhyphen"/>frauded her of 2 Guineas, under Pretence of ſaving her. Husband's Life, which, as ſhe ſaid, ſhe refus'd; and in order to get from him, promis'd to return in 2 Hours. Inſtead of returning ſhe went directly to Mr. <hi>Allen,</hi> and acquainted him with <hi>Newey</hi>'s Intention, and voluntarily made an Affidavit of the Truth thereof. Mr. <hi>Harvey,</hi> a Gentleman of Reputation, who lives in <hi>Red-Lion-Fields,</hi> drew up the Affidavit, and read it to her diſtinctly and deliberately. She re<g ref="char:EOLhyphen"/>plied, it was very true, and ſo ſign'd it. Mr. <hi>Harvey</hi>'s Clerk went along with her before Judge <hi>Gould;</hi> his Clerk ask'd her whether ſhe had heard the Contents read, and ſhe ſaid Yes, and that they were very true, and are as followeth.</p>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <p>
+                     <hi>Mary Fiſher</hi> of the Pariſh of <hi>Stepney</hi> in the County of <hi>Middleſex,</hi> late Wife of <hi>Joſeph Fiſher,</hi> deceaſed, maketh Oath, that ſhe this Deponent, did apply her ſelf to Mr. <hi>Allen,</hi> Ordinary of <hi>Newgate,</hi> to put her in a way to get a Reprieve for her Husband a Priſoner in <hi>Newgate,</hi> then un<g ref="char:EOLhyphen"/>der Sentence of Death, and gave him 2 Guineas; but that he the ſaid Mr. <hi>Allen,</hi> told her, he could do her no Service therein, for he was unacquainted with thoſe Concerns, and gave her the 2 Guineas again.</p>
+                  <closer>
+                     <signed>The Mark of M <hi>Mary Fiſher.</hi>
+                     </signed>
+                     <signed>Coram me. H. Gould.</signed>
+                     <date>
+                        <hi>Jurat</hi> May 25.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Day following being <hi>Sunday</hi> Mr. <hi>Allen</hi> acquainted <hi>Newey</hi> with what <hi>Fiſher</hi> had told him, and read him the Affidavit; he was ſo concern'd, that he ſent for the Woman the next day, and told her Mr. <hi>Allen</hi> had abus'd her, and prevail'd with her ſo far, that at his Requeſt ſhe went be<g ref="char:EOLhyphen"/>fore the Right Honourable the Lord Mayor, and depos'd that Mr. <hi>Allen</hi> had forced her to take the ſaid Oath before Judge <hi>Gold.</hi> Whereas Mr. <hi>Harvey</hi> and his Clerk did affirm and they were ready to depoſe that Mr. <hi>Allen,</hi> did not go with her, nor ſtir out of the Chamber when ſhe made the aforeſaid Affidavit, his Chambers being in <hi>Fleetſtreet,</hi> and the Judges in <hi>Chancery-Lane;</hi> which in the Opinion of every unprejudic'd Perſon that I have convers'd with, do's fully enough clear the Reputation of Mr. <hi>Allen</hi> as to that Point; tho' it is an unhappy Circumſtance for a Miniſter to have to do with Perſons of ſuch profligate Conſciences, as will Swear and then Forſwear, for a ſmall Gratuity.</p>
+            <p>I find Mr. <hi>Allen</hi> accus'd alſo with taking 40 <hi>s.</hi> from <hi>John Davis,</hi> who was lately executed; as alſo 20 from his Wife. I have enquir'd into this Matter, and find no Evidence but <hi>Davis</hi> his Wife, who only ſays, that ſhe heard her Husband ſay ſo. I am unwilling to reflect on the Dead; but 'tis well known what a Perſon this <hi>Davis</hi> was. It ſeems he was a Miniſter's Son in the North, near the Place where Mr. <hi>Allen</hi> was born, and deſired him with great Earneſtneſs not to give any Ac<g ref="char:EOLhyphen"/>count of his Diſaſter to his Parents by Letter, his true Name being <hi>Shirley;</hi> and upon this ac<g ref="char:EOLhyphen"/>count ſent 20 <hi>s.</hi> to Mr. <hi>Allen,</hi> to buy him a Mourning Ring by his Wives Hand, which Mr. <hi>Allen,</hi> in my Opinion, very imprudently return'd her at the Requeſt of the Lord Mayor; and eſpecial<g ref="char:EOLhyphen"/>ly, ſeeing he has diſcharg'd that painful and laborious Office a Year and 3 Quarters, and has re<g ref="char:EOLhyphen"/>ceiv'd but one Quarters Salary of the Whole, as I am informed by ſeveral.</p>
+            <p>Thus, I have given a true Account of the Matters of Fact as they are in themſelves, and can be Atteſted by Perſons of unqueſtionable Reputation, and ſhall only add, that what I find in another Paper, concerning <hi>Brabazon</hi>'s giving Mr. <hi>Allen</hi> Money, has no appearance of Truth, he being now a Convict in <hi>Newgate,</hi> that lies for Tranſportation; and I am very well aſſur'd that Mr. <hi>Allen</hi> has formerly paid this Man's Fees out of meer Charity, and ſo ſet him at Liberty once before.</p>
+            <closer>
+               <signed>I am Yours A. B.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>Next Week will be publiſhed a ſhort Account of the Life and Converſation of the pretended Capt. <hi>Charles Newey,</hi> writ by a Perſon well known to him.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
